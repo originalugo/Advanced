@@ -1,5 +1,5 @@
 <b>Task <br /></b>
-What you will do in this assignment is to implement an evolutionary algorithm and apply it to the 
+Task is to implement an evolutionary algorithm and apply it to the 
 problem shown below. You will do a variety of experiments to help find out what parameters for the 
 algorithm are best for this problem. Implementation of the algorithm can be in the programming 
 language of your choice. In the following sections, details of the problem are provided, then basic details 
